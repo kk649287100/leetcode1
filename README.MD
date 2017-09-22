@@ -1,1 +1,1 @@
-This is a solution for leetcode problem #1.
+This is a solution for LeetCode problem #1.
